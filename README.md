@@ -1,10 +1,105 @@
-<h1 align="center">Hi</h1>
-<h3 align="center">Test</h3>
+<div align="center">
+  <h1>👋 Cześć, jestem <b>Paweł</b></h1>
+  <p>🎓 Student kierunku <b>Cyberbezpieczeństwo</b> — Politechnika Wrocławska (III semestr)<br>
+  💻 <b>Technik programista</b> z dyplomem zawodowym</p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/xvarmond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xvarmond" height="30" width="40" /></a>
+<hr>
+
+<h2>🧠 O mnie</h2>
+<p>
+  Od dzieciństwa interesuję się programowaniem i technologią — zaczynałem od prostych projektów, a dziś łączę tę pasję z nauką o <b>AI</b> i <b>neuroinformatyce</b>.<br>
+  Fascynuje mnie, jak systemy mogą się uczyć i łączyć — zarówno te cyfrowe, jak i biologiczne.<br>
+  Uwielbiam poznawać, jak działają <b>sieci komputerowe</b>, oraz jak funkcjonują <b>połączenia nerwowe w ludzkim mózgu</b>.<br><br>
+  Wierzę, że zrozumienie obu tych światów — technologicznego i biologicznego — to klucz do nowych odkryć i innowacji.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<hr>
+
+<h2>⚙️ Technologie i narzędzia</h2>
+
+<table>
+  <tr>
+    <th>🧩 Języki programowania</th>
+    <th>🧠 Frameworki / Narzędzia</th>
+    <th>🌐 Web development</th>
+  </tr>
+  <tr align="center">
+    <td>Python 🐍<br>C++ ⚙️<br>Java ☕</td>
+    <td>PyQt<br>Android Studio 📱<br>Git · Linux 🐧</td>
+    <td>HTML · CSS · JS · PHP 🌍<br>SQL 🧾</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>🎥 Działalność edukacyjna</h2>
+<p>
+  Od kilku lat prowadzę <b>kanał na YouTube</b>, na którym dzielę się wiedzą z programowania i pokazuję praktyczne zastosowania technologii.<br>
+  Tworzyłem kursy m.in. z:
+</p>
+<ul>
+  <li>🐍 <b>Python</b> – podstawy i projekty praktyczne</li>
+  <li>⚙️ <b>C++</b> – od podstaw do egzaminu zawodowego</li>
+  <li>🌐 <b>HTML / CSS / JS / PHP / SQL</b> – tworzenie stron i aplikacji webowych</li>
+</ul>
+<p>Lubię tłumaczyć rzeczy w prosty sposób i pokazywać, że programowanie może być ciekawe i dostępne dla każdego.</p>
+
+<hr>
+
+<h2>🧩 Zainteresowania</h2>
+
+<table>
+  <tr>
+    <th>Dziedzina</th>
+    <th>Co mnie w niej fascynuje</th>
+  </tr>
+  <tr>
+    <td>🧠 Neuroinformatyka</td>
+    <td>Zrozumienie, jak działa ludzki mózg i jak odwzorować jego procesy w AI</td>
+  </tr>
+  <tr>
+    <td>🤖 Sztuczna inteligencja</td>
+    <td>Uczenie maszynowe, sieci neuronowe, modele inspirowane biologią</td>
+  </tr>
+  <tr>
+    <td>🌐 Sieci komputerowe</td>
+    <td>Mechanizmy komunikacji i bezpieczeństwa w złożonych systemach</td>
+  </tr>
+  <tr>
+    <td>🔐 Cyberbezpieczeństwo</td>
+    <td>Ochrona danych, systemów i ludzi w świecie cyfrowym</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>💬 Motto</h2>
+<blockquote>
+  “The brain is the most complex network ever created — and we’re still learning how to connect to it.”
+</blockquote>
+
+<hr>
+
+<h2>📫 Kontakt</h2>
+<table>
+  <tr>
+    <th>📡 Kanał</th>
+    <th>Dane</th>
+  </tr>
+  <tr>
+    <td>✉️ E-mail</td>
+    <td><i>tu wpisz swój adres e-mail</i></td>
+  </tr>
+  <tr>
+    <td>💬 Discord</td>
+    <td><i>tu wpisz swój nick</i></td>
+  </tr>
+</table>
+
+<hr>
+
+<p align="center">
+  ⭐ <b>Obszary, które mnie inspirują:</b><br>
+  sztuczna inteligencja · neuroinformatyka · sieci komputerowe · cyberbezpieczeństwo
+</p>
